@@ -3,4 +3,4 @@ PREFINAL PROJECT
 member:
 racel echano
 arlene alamo
-zarah bene 
+zarah bene alfornon
