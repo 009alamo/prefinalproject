@@ -4,3 +4,4 @@ member:
 racel echano
 arlene alamo
 zarah bene alfornon
+jama olofernes
